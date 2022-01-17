@@ -1,0 +1,1 @@
+* Configure the <fg=green>types</> and <fg=green>groups</> in <fg=green>config/packages/filter.yaml</>
